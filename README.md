@@ -5,7 +5,7 @@ Although I'm currently not working at a proffesional standard, that doesn't stop
 
 <details>
   <summary> Go to ...</summary>
-  <a href="https://github.com/ArloM-dev/ArloM-dev/edit/main/README.md#projects">Projects</a>
+  <a href="https://github.com/ArloM-dev/ArloM-dev/tree/main#projects">Projects</a>
 </details>
 
 ### Hobbys
