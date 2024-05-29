@@ -3,6 +3,22 @@
 Hey, my names Arlo, and I'm a software and game developer seeking out new challenges to push myself.
 Although I'm currently not working at a proffesional standard, that doesn't stop me from completing projects to perfection.
 
+### Hobbys
+
+As someone who tends to get distracted easily, i tend to end up with a range of skills and hobbys.
+Of the top of my head the list includes:
+- Programming
+- Chess
+- Cubing
+- Maths (For fun, I know)
+- 3D Modelling (Blender)
+- Cycling
+- Reading
+- Going to the gym
+- Magic  <br/>
+
+Some of these I havent done for a while, but i still tend to revisit them every once in a while.
+
 ## Projects
 
 Now although you may notice a lack of my repositorys that does not mean I cannot program.
