@@ -3,11 +3,6 @@
 Hey, my name is Arlo, and I'm a software and game developer seeking out new challenges to push myself.
 Although I'm currently not working at a professional standard, that doesn't stop me from completing projects to perfection.
 
-<details>
-  <summary> Go to ...</summary>
-  <a href="https://github.com/ArloM-dev/ArloM-dev/tree/main#projects">Projects</a>
-</details>
-
 ### Hobbies
 
 As someone who tends to get distracted easily, I tend to end up with a range of skills and hobbies.
