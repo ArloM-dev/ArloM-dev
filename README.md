@@ -5,7 +5,7 @@ Although I'm currently not working at a professional standard, that doesn't stop
 
 ### Hobbies
 
-As someone who tends to get distracted easily, I tend to end up with a range of skills and hobbies.
+As someone who tends to get distracted easily, I often to end up with a range of skills and hobbies.
 
 Off the top of my head, the list includes:
 - Programming
@@ -18,7 +18,7 @@ Off the top of my head, the list includes:
 - Going to the gym
 - Magic  <br/>
 
-Some of these I haven't done for a while, but I still tend to revisit them every once in a while.
+Some of these I haven't done for some time, but I still tend to revisit them every once in a while.
 
 ## Projects
 
