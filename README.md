@@ -27,7 +27,7 @@ In truth, I have only recently started using GitHub, and although I have worked 
 But who knows, when you're reading this I may have many repositories to my name, but for now, let's have a quick look at my current ones.
 
 
-### [4State](https://github.com/ArloM-dev/4state) - Current project
+### [4State](https://github.com/ArloM-dev/4state)
 
 4State is a board game based on a game I bought while in France. 
 It's almost like a complicated version of tic-tac-toe, with a 4 by 4 grid and pieces that have multiple qualities or 'states' as I have called them. 
